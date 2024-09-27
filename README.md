@@ -4,11 +4,11 @@
 </h1>
 
 <p align="Left">
-  <em>🧑‍💻 Passionate developer creating robust and scalable web applications</em><br>
+  <em>Passionate developer creating robust and scalable web applications</em><br>
   <em>Skilled in Domain-Driven Design with a keen eye for user experience and performance optimization</em>
 </p>
 
-<h2 align="left">About Me</h2>
+<h2 align="left">🧑‍💻 About Me</h2>
 
 <p align="left">
   I'm a seasoned full-stack developer with a strong focus on backend technologies and cloud infrastructure. My passion lies in building efficient, scalable, and maintainable systems that solve real-world problems.
