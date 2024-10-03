@@ -27,22 +27,22 @@
 
 <h3 align="left">Languages & Scripting</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,bash" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,bash,helm" />
 </p>
 
 <h3 align="left">Backend & Databases</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,redis,graphql,pnpm" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,postgresql,redis,graphql,pnpm" />
 </p>
 
 <h3 align="left">DevOps & Cloud</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,githubactions,cloudflare,grafana,terraform" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,aws,gcp,nginx,githubactions,cloudflare,grafana,terraform" />
 </p>
 
 <h3 align="left">Tools</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,discord" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,discord,arcbrowser,notion,slack" />
 </p>
 
 <h2 align="left">Github Stats</h2>
